@@ -1,4 +1,9 @@
-### Hi there 👋
+### Welcome! 👋
+
+I'm a Computer Science and Engineering Student at University da Beira Interior. 🏫
+I'm currently working on an Artificial Intelligence project and I'm looking to learning more about it in the future. 🦾
+Don't hesitate to contact me if you want to! 💬
+Also, you can get to know me a little better by looking at my portfolio. 😉
 
 <!--
 **AntonioPCruz/AntonioPCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
