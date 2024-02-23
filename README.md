@@ -8,8 +8,8 @@ Don't hesitate to contact me if you want to! 💬
 
 Also, you can get to know me a little better by looking at my portfolio. 😉
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/antonio-cruz-ac21/)
-[![Personal Website](https://img.shields.io/badge/Personal%20Website-Link-important?style=flat&logo=website&logoColor=white&color=green)](https://antoniopcruz.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/antonio-cruz-ac21/)
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-Link-success)](https://antoniopcruz.github.io/Portfolio/)
 
 <!--
 **AntonioPCruz/AntonioPCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
