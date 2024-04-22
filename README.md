@@ -2,6 +2,8 @@
 
 I'm a Computer Science and Engineering Student at University of Beira Interior. 🏫
 
+Currently working as a Software Engineer at Celfinet. 💼
+
 I'm currently working on an Artificial Intelligence project and I look forward to learning more about it in the future. 🦾
 
 Don't hesitate to contact me if you want to! 💬
