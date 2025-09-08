@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-I'm a Computer Science and Engineering Student at University of Beira Interior. 🏫
+I'm a Graduated Computer Engineer at University of Beira Interior. 🏫
 
 Currently working as a AI Engineer at Cyient. 💼
 
