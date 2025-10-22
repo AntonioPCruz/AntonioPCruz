@@ -1,10 +1,12 @@
 ### Welcome! 👋
 
-I'm a Graduated Computer Engineer at University of Beira Interior. 🏫
+I'm a Graduated Computer Engineer at University of Beira Interior. 🎓
+
+Currently pursuing a Master's Degree in Computer Engineering at University of Minho. 🏫
 
 Currently working as a AI Engineer at Cyient. 💼
 
-I'm currently working on an Generative AI project and I look forward to learning more about it in the future. 🦾
+Recently worked on an Generative AI project, as I look forward to learning more about it in the future. 🦾
 
 Don't hesitate to contact me if you want to! 💬
 
